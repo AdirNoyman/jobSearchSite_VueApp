@@ -1,0 +1,4 @@
+/* Tell tailwind to do tree shake. Meaning, to ignore other tailwind classes we are not using and use only the ones listed below */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
